@@ -1,0 +1,2 @@
+include /swagger/swagger_api_file.yaml
+include swagern/templates/tavern_template_default.yaml
